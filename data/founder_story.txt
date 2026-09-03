@@ -1,0 +1,203 @@
+# About Susheel
+
+## Professional Overview
+
+Susheel is a Java and AWS Developer with around 3 years of professional software engineering experience. He has experience designing, developing, deploying, and maintaining scalable enterprise applications and cloud-based systems.
+
+His primary areas of expertise include Java, Spring Boot, RESTful APIs, microservices, AWS, DevOps, CI/CD, Kubernetes, Terraform, databases, and cloud-native application development.
+
+He currently works as a Java Full Stack Developer at Infosys in the USA.
+
+## Education
+
+Susheel holds a Master of Science in Computer Science from Missouri University of Science and Technology, which he completed in December 2023, with a 3.9/4.0 GPA.
+
+He also holds a Bachelor of Technology in Electronics and Communication Engineering, completed in April 2019, with a CGPA of 8.67/10.
+
+## Professional Experience
+
+Susheel has worked across software development, cloud engineering, and DevOps.
+
+He previously worked at Wipro Technologies as an AWS DevOps Engineer, where he worked with AWS cloud services, infrastructure automation, CI/CD pipelines, monitoring, containerization, and deployment automation.
+
+He later worked as a DevOps Engineer at Excel IT Corp in Dallas, Texas, where his responsibilities included Java development along with cloud and DevOps engineering.
+
+Currently, Susheel works at Infosys as a Java Full Stack Developer. His work involves Java, Spring Boot, REST APIs, microservices, cloud technologies, databases, and modern software development practices.
+
+## Programming Languages
+
+Susheel works with:
+
+* Java
+* Python
+* C
+* C++
+* Bash
+* PowerShell
+* TypeScript
+
+His strongest programming language is Java, particularly for enterprise backend and full-stack application development.
+
+## Java and Backend Technologies
+
+Susheel has experience with:
+
+* Java 8, 11, 17, and 21
+* Spring Boot
+* Spring MVC
+* Spring Security
+* Spring Data
+* Hibernate
+* JPA
+* Spring Cloud
+* RESTful Web Services
+* Microservices
+* JUnit
+* Mockito
+* Kotlin
+* Kafka
+
+He has designed and developed RESTful APIs and distributed microservices-based applications using the Java and Spring ecosystem.
+
+## Cloud and DevOps
+
+Susheel has strong experience with AWS and cloud infrastructure.
+
+His AWS experience includes services such as:
+
+* EC2
+* S3
+* Lambda
+* IAM
+* VPC
+* RDS
+* DynamoDB
+* CloudWatch
+* EKS
+* ECS
+* API Gateway
+* Secrets Manager
+* CloudFormation
+
+For infrastructure automation and DevOps, he works with:
+
+* Terraform
+* AWS CloudFormation
+* AWS CDK
+* Ansible
+* Jenkins
+* GitHub Actions
+* GitLab CI/CD
+* Docker
+* Kubernetes
+* Helm
+* Argo CD
+
+## Databases
+
+Susheel has experience working with:
+
+* MySQL
+* PostgreSQL
+* Oracle
+* MongoDB
+* DynamoDB
+* Redis
+
+He has worked with both relational and NoSQL databases and has experience using Hibernate/JPA for persistence in Java applications.
+
+## Monitoring and Security
+
+Susheel has experience with application and infrastructure monitoring using:
+
+* AWS CloudWatch
+* Prometheus
+* Grafana
+* ELK Stack
+* Splunk
+* Datadog
+
+He has also worked with technologies and practices related to cloud security, secrets management, SSO, vulnerability scanning, and compliance.
+
+## Frontend Development
+
+Susheel has full-stack development experience and has worked with:
+
+* React.js
+* Angular
+* TypeScript
+* HTML
+* CSS
+* JavaScript
+
+He can work across both backend and frontend components of enterprise applications.
+
+## Artificial Intelligence and Machine Learning
+
+Susheel is actively developing his knowledge and practical skills in Artificial Intelligence, Machine Learning, Natural Language Processing, Large Language Models, and Generative AI.
+
+His areas of interest include:
+
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Embeddings
+* Vector Databases
+* Semantic Search
+* NLP
+* Tokenization
+* Transformers
+* PyTorch
+* Machine Learning
+* MLOps
+* AI-enabled applications
+
+He is currently building RAG applications and learning how to develop LLM-based systems from the fundamentals through production deployment.
+
+## RAG and LLM Projects
+
+Susheel is working on Retrieval-Augmented Generation applications that combine document retrieval, embeddings, vector databases, and Large Language Models.
+
+His RAG learning includes:
+
+1. Document ingestion
+2. Text preprocessing
+3. Chunking
+4. Tokenization
+5. Embedding generation
+6. Vector storage
+7. Similarity search
+8. Top-K retrieval
+9. Context augmentation
+10. LLM-based response generation
+
+He is also learning the fundamentals of building small language models, including tokenizers, datasets, embeddings, transformer architecture, attention mechanisms, and training pipelines.
+
+## Research Interests
+
+Susheel is interested in AI systems that are reliable, scalable, cost-efficient, and practical for enterprise applications.
+
+His research interests include:
+
+* Trustworthy AI
+* Retrieval-Augmented Generation
+* Enterprise AI
+* Large Language Models
+* Efficient LLM inference
+* AI system optimization
+* AI reliability
+* Vector search
+* Knowledge retrieval
+* MLOps
+* Cloud-based AI systems
+
+## Career Goals
+
+Susheel's career goal is to combine his software engineering, cloud, DevOps, and Artificial Intelligence expertise to build scalable production-grade AI systems.
+
+He is particularly interested in building enterprise AI applications that combine Java, AWS, cloud-native architecture, RAG, LLMs, and MLOps.
+
+## Personal Professional Summary
+
+In summary, Susheel is a Java and AWS Developer with experience in full-stack development, cloud engineering, DevOps, and enterprise application development. He has strong experience with Java, Spring Boot, REST APIs, microservices, AWS, Kubernetes, Terraform, CI/CD, and databases.
+
+He is also expanding his expertise into Artificial Intelligence, Machine Learning, LLMs, RAG, embeddings, vector databases, and MLOps, with the goal of becoming a strong AI and software engineering professional capable of building production-grade AI-enabled applications.
